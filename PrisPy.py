@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-# PrisPy, a PyGTK Webkit implementation of Mozilla Prism released under the GPLv3
+# PrisPy, a PyGTK Webkit implementation of Mozilla Prism released under the SmartPL
 # Special thanks to Andy Breiner for the initial webkit browser code
 # Special thanks also goes to Vladimir Kolev for the PyBrowser code
 # Latest hacks by Janosch Maier
